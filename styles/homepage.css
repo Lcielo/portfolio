@@ -1,1 +1,19 @@
 /* Hero section styles */
+.hero-section {
+
+    background-image: url();https://images.unsplash.com/photo-1615281378393-6225797ba2b9?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=shibam-photography-30CrP8Pr7Jw-unsplash.jpg
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100px;
+    padding: 100px;
+}
+.top-headding {
+    background-color: rgb(80, 185, 255);
+    width: 290px;
+    padding: 1px 20px;
+
+    
+
+}
